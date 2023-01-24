@@ -1,7 +1,7 @@
 .header {
   justify-content: space-around;
   align-items: center;
-  background-color: azure;
+  background-color: rgb(10, 2, 49);
 }
 
 .logo-container {
@@ -46,7 +46,7 @@
 
 .logo-container > h1 {
   font-size: 2rem;
-  color: rgb(86, 161, 0);
+  color: rgb(224, 253, 3);
 }
 
 .logo-container > h1:hover {
@@ -60,7 +60,7 @@
   }
 
   25% {
-    color: rgb(255, 115, 0);
+    color: rgb(224, 253, 3);
   }
 
   50% {

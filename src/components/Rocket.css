@@ -7,11 +7,14 @@
 .rocket-img {
   width: 15rem;
   height: 15rem;
+  border-radius: 50%;
+  border: 2px solid rgb(19, 1, 62);
 }
 
 .rocket-info {
   text-align: start;
-  background-color: azure;
+  background-color: rgb(15, 1, 47);
+  color: aquamarine;
 }
 
 .rocket-info > h3 {
@@ -21,6 +24,7 @@
 
 .rocket-info > p > span {
   background-color: aquamarine;
+  color: rgb(15, 1, 47);
   margin: 0.4rem;
   border-radius: 20%;
   font-size: 1rem;
