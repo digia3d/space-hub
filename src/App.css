@@ -89,6 +89,7 @@
   width: 6rem;
   border: rgb(143, 142, 142) solid 1px;
   background: transparent;
+  color: rgb(77, 77, 234);
 }
 
 .join:hover {
@@ -111,7 +112,8 @@ article {
 }
 
 .body-mis:nth-child(even) {
-  background-color: #eee;
+  background-color: rgb(15, 1, 47);
+  color: white;
 }
 
 /* Profile style */
